@@ -1,3 +1,5 @@
+print("python functions.")
+
 #function
 def print_hello(kpt):
 	print('Hello',kpt)
