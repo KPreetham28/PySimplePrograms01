@@ -1,3 +1,5 @@
+print("this is for variables and data types.")
+
 #Variable declaration and assignment
 kpt='Kompella Preetham Teja'
 kmr='karre Balayya Mahesh Reddy'
